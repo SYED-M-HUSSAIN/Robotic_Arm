@@ -2,4 +2,4 @@
 ---
 
 
-<img src="BG.jpg" alt="J" width="700"/>
+<img src="BG.jpg" alt="J" width="400"/>
